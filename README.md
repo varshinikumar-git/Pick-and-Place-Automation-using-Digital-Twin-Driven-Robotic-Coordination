@@ -21,7 +21,6 @@ The proposed approach integrates **robotic manipulation logic with digital twin 
 
 * 🔹 Digital twin-based simulation of robotic operations
 * 🔹 Virtual task coordination for pick-and-place workflows
-* 🔹 Motion analysis using frame-based and temporal techniques
 * 🔹 Visualization of robotic actions and system outputs
 * 🔹 Modular pipeline for easy experimentation and extension
 
@@ -74,8 +73,6 @@ AMR-Project/
 ## Results
 
 * Successful simulation of **pick-and-place operations**
-* Visualization of motion evolution and task execution
-* Extraction of meaningful temporal descriptors
 * Demonstration of coordinated robotic behavior in a virtual setup
 
 ---
@@ -108,8 +105,8 @@ AMR-Project/
 
 ## Author
 
-**Logavarshini K**
-- B.Tech Robotics and Artificial Intelligence
+Logavarshini K␣␣
+B.Tech Robotics and Artificial Intelligence
 ---
 
 ## Acknowledgment
