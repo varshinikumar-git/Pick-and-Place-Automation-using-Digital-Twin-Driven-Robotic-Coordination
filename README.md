@@ -109,7 +109,7 @@ AMR-Project/
 ## Author
 
 **Logavarshini K**
-B.Tech Robotics and Artificial Intelligence
+- B.Tech Robotics and Artificial Intelligence
 ---
 
 ## Acknowledgment
