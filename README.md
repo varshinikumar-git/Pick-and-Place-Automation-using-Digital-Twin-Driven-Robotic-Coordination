@@ -36,7 +36,7 @@ AMR-PROJECT/
 │
 │
 ├── outputs/                            # Generated outputs and results
-│   └── (processed images, videos, etc.)
+│   
 │
 ├── pickplace.py                        # Main script for pick-and-place simulation
 │
