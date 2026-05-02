@@ -26,29 +26,24 @@ The proposed approach integrates **robotic manipulation logic with digital twin 
 * 🔹 Modular pipeline for easy experimentation and extension
 
 ---
-
 ## Project Structure
 
-
-
 ```
-AMR-PROJECT/
+AMR-Project/
 │
+├── outputs
 │
-├── outputs/                            # Generated outputs and results
+├── pickplace.py
+│
+├── requirements.txt
+│
+├── digita twin.pptx
 │   
+├── Pick and Place Automation using Digital Twin Driven Robotic Coordination.docx
+|
+├── Pick and Place Automation using Digital Twin Driven Robotic Coordination.pptx
 │
-├── pickplace.py                        # Main script for pick-and-place simulation
-│
-├── requirements.txt                    # Project dependencies
-│
-├── digital_twin.pptx                   # Project presentation
-│
-├── Pick-and-Place-Automation-using-Digital-Twin-Driven-Robotic-Coordination.docx   # Project report (Word)
-│
-├── 126179023.pdf                       # Reference / supporting document
-│
-└── README.md                           # Project documentation
+└── README.md                        # Project documentation
 ```
 
 
